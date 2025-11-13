@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "PP Neue Montreal", sans-serif;
+    background-color: #161616 ;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
